@@ -1,0 +1,11 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+    max-width: 690px;
+    /* align-items: flex-end; */
+    align-items: flex-start;
+    border: rgb(192, 47, 211) solid 1px;
+    /* align-self: flex-end; */
+    margin-left: auto;
+}
