@@ -1,20 +1,20 @@
 .header {
-  /* max-width: 1184px; */
   /* margin: 0 48px 0; */
   /* height: 52px; */
   /* align-items: flex-end; */
   /* margin: 0 48px 0; */
   /* width: calc(100%*1184/1280); */
+  max-width: 1280px;
+  /* max-width: 1184px; */
   border: solid 1px darkgreen;
   display: flex;
   justify-content: space-between;
-  /* box-sizing: border-box; */
+  box-sizing: border-box;
   padding: 0 48px 0;
-  max-width: 1280px;
   width: 100%;
   }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1280px) {
   .header {
     padding: 0 24px 0;
   }

@@ -2,26 +2,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 0 148px 0;
-    max-width: 984px;
+    padding: 56px 0 0;
+    max-width: 1280px;
     border: chocolate solid 1px;
     color: #FFFFFF;
 }
 
 @media screen and (max-width:1024px) {
     .lead {
-      padding: 48px 48px 0;
+      padding: 48px 0 0;
     }
   }
   
-  @media screen and (max-width:768px) {
-    .lead {
-      padding: 48px 0 0; 
-    }
-  }
   
-  @media screen and (max-width:320px) {
-    .lead {
-      padding: 18px 0 0;
-    }
-  }
