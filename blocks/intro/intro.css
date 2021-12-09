@@ -21,17 +21,20 @@
 @media screen and (max-width: 865px) {
     .intro {
         grid-template-columns: 1fr minmax(720px, 720px) 1fr;
+        padding: 88px 0 88px 0;
     }
 }
 
 @media screen and (max-width: 768px) {
     .intro {
         grid-template-columns: 1fr minmax(690px, 720px) 1fr;
+    
     }
 }
 
 @media screen and (max-width: 760px) {
     .intro {
         grid-template-columns: 1fr 18fr 1fr;
+        padding: 64px 0 64px 0;
     }
 }
