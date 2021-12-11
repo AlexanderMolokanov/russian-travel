@@ -5,6 +5,7 @@
   max-width: 1280px;
   grid-gap: 16px;
   padding: 0 0 92px;
+  margin: 0 auto;
   /* grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr; */
   /* grid-template-rows: repeat(2, 213px); */
@@ -29,7 +30,7 @@
   .photo-grid {
     grid-gap: 16px;
     grid-template-columns: repeat(2, 352px);
-    padding: 0 24px 88px;
+    padding: 0 0 88px;
   }
 }
 

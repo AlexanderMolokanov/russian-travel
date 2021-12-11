@@ -1,10 +1,13 @@
 .lead {
-    display: flex;
+  /* grid-area: lead;
+  box-sizing: border-box; */
+  
+  display: flex;
     flex-direction: column;
     align-items: center;
     padding: 56px 0 0;
     max-width: 1280px;
-    border: chocolate solid 1px;
+    /* border: chocolate solid 1px; */
     color: #FFFFFF;
 }
 
