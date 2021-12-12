@@ -1,11 +1,12 @@
 .photo-grid {
-  grid-area: photo-grid;
-  display: grid;
+    display: grid;
   grid-template-columns: repeat(4, 284px);
   max-width: 1280px;
   grid-gap: 16px;
   padding: 0 0 92px;
-  margin: 0 auto;
+  /* margin: 0 auto;
+  justify-content: center;
+  align-items: center; */
   /* grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr; */
   /* grid-template-rows: repeat(2, 213px); */

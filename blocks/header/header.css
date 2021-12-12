@@ -1,23 +1,15 @@
 .header {
-  /* margin: 0 48px 0; */
-  /* height: 52px; */
-  /* align-items: flex-end; */
-  /* margin: 0 48px 0; */
-  /* width: calc(100%*1184/1280); */
-  /* max-width: 1184px; */
- 
-  /* border: solid 1px darkgreen; */
-  max-width: 1280px;
   display: flex;
   justify-content: space-between;
-  box-sizing: border-box;
-  padding: 0 48px 0;
+  padding: 0 0 0;
   width: 100%;
-  }
+  position: relative;
+  box-sizing: border-box;
+}
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1120px) {
   .header {
-    padding: 0 24px 0;
+    padding: 0 48px 0;
   }
 }
 

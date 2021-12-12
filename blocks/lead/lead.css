@@ -1,20 +1,18 @@
 .lead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 56px 100px 0;
+  max-width: 1280px;
+  color: #FFFFFF;
+  position: relative;
+  /* border: chocolate solid 1px; */
   /* grid-area: lead;
   box-sizing: border-box; */
-  
-  display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 56px 0 0;
-    max-width: 1280px;
-    /* border: chocolate solid 1px; */
-    color: #FFFFFF;
 }
 
-@media screen and (max-width:1024px) {
-    .lead {
-      padding: 48px 0 0;
-    }
+@media screen and (max-width:1120px) {
+  .lead {
+    padding: 48px 48px 0;
   }
-  
-  
+}

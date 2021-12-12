@@ -5,9 +5,9 @@
     align-items: center;
     justify-content: center;
     z-index: 1;
-    /* width: 100%; */
     max-height: 740px;
     height: 100%;
+        /* width: 100%; */
     /* justify-content: top; */
     /* align-content: center;
     box-sizing: border-box;
