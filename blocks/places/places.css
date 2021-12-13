@@ -1,0 +1,14 @@
+.places {
+    /* padding: 0 100px 0; */
+    /* display: grid;
+    grid-template-columns: fit-content(460px) 1fr;
+    column-gap: 40px;
+    row-gap: 48px;
+    padding: 0 0 80px;
+    color: #FFFFFF; */
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 0;
+}
+
