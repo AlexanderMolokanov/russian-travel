@@ -5,19 +5,18 @@
     box-sizing: border-box;
     position: relative;
     object-fit: contain;
-    /* min-width: 50px; */
+    /* width: 100px; */
 }
-
-@media screen and (max-width:385px) {
-    .place__image {
-        max-width: 320px;
-    }
-   }
-   
 
 @media screen and (max-width: 660px) {
     .place__image {
         margin: 0 auto;
     }
-    
 }
+
+@media screen and (max-width:550px) {
+    .place__image {
+        grid-column-start: 1;
+        grid-row-start: 3;
+    }
+   }

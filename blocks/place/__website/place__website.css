@@ -1,18 +1,17 @@
 .place__website {
-    padding: 0;
-    margin: 0;
-    opacity: 1;
-    align-self: end;
-
+  padding: 0;
+  margin: 0;
+  opacity: 1;
+  align-self: end;
 }
 
 .place__website:hover {
-    opacity: 0.8;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 550px) {
-    .place__website {
-      padding-left: 16px;
-      padding-right: 16px;
-    }
+  .place__website {
+    padding-left: 16px;
+    padding-right: 16px;
   }
+}

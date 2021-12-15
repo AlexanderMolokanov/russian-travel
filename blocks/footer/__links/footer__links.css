@@ -19,7 +19,7 @@
 }
 
 @media screen and (max-width: 550px) {
-    .header {
+    .footer__links {
         grid-template-rows: repeat(5, min-content);
         grid-template-columns: repeat(1, min-content);
         grid-row-gap: 32px;
@@ -30,6 +30,6 @@
         line-height: 24px;
         letter-spacing: 0em;
         text-align: left;
-
+        margin-left: 16px;
     }
 }

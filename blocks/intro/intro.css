@@ -9,7 +9,7 @@
     max-width: 1280px;
     /* gap: 1px; */
     /* border: 1px solid green; */
-    
+
 }
 
 @media screen and (max-width: 1120px) {
@@ -28,7 +28,6 @@
 @media screen and (max-width: 550px) {
     .intro {
         grid-template-columns: 16px minmax(min-content, max-content) 16px;
-    
+        padding: 64px 0 64px 0;
     }
 }
-

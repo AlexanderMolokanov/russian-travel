@@ -14,3 +14,24 @@
     color: #FFFFFF;
     padding: 94px 0 0;
 }
+
+@media screen and (max-width: 1120px) {
+    .footer {
+        padding-right: 48px;
+        padding-left: 48px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .footer {
+        padding: 88px 24px 24px;
+        grid-template-columns: repeat(1, minmax(220px 0.5fr));
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .footer {
+        padding: 64px 0 0;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
