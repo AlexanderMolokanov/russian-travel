@@ -11,8 +11,8 @@ color: #FFFFFF;
 
 @media screen and (max-width:900px) {
     .place__link {
-
-
+        text-align: left;
+     
 
     }
 }
