@@ -7,8 +7,7 @@
     margin: 0;
     padding: 0;
     margin-left: auto;
-    /* justify-self: self-end; */
-}
+    }
 
 @media screen and (max-width: 767px) {
     .footer__copyright {

@@ -1,12 +1,8 @@
 .header__lang-links {
-  padding: 0;
-  list-style: none;
-  display: flex;
-  align-items: flex-end;
-  /* border: chartreuse 1px solid; */
+  padding      : 0;
+  list-style   : none;
+  display      : flex;
+  align-items  : flex-end;
   margin-bottom: 6px;
-  margin-top: 18px;
-  
-  /* justify-content: left; */
-  /* margin-left: auto; */
+  margin-top   : 18px;
 }

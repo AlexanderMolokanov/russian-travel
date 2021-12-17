@@ -4,7 +4,6 @@
     line-height: 1.2;
     text-align: center;
     font-style: normal;
-    /* max-width: 640px; */
     margin: 32px 25% 64px;
     padding: 0;
     letter-spacing: 0em;
@@ -65,12 +64,3 @@
         margin-right: auto;
     }
 }
-
-
-/* @media screen and (max-width: 425px) {
-    .lead__subtitle {
-      font-size: 20px;
-      line-height: 1.25;
-      margin: 0 24px 40px;
-    }
-  } */
