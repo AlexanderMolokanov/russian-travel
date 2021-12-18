@@ -1,18 +1,18 @@
 .footer__copyright {
-    font-size     : 14px;
-    line-height   : 16px;
-    font-style    : normal;
-    font-weight   : 400;
+    font-size: 14px;
+    line-height: 16px;
+    font-style: normal;
+    font-weight: 400;
     letter-spacing: 0em;
-    margin        : 0;
-    padding       : 0;
-    margin-left   : auto;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
 }
 
 @media screen and (max-width: 767px) {
     .footer__copyright {
-        margin-top  : 48px;
+        margin-top: 48px;
         margin-right: auto;
-        margin-left : 0;
+        margin-left: 0;
     }
 }
