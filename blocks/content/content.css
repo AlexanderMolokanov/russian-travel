@@ -1,8 +1,15 @@
 .content {
-  display: grid;
-  grid-row-gap: 92px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #2A2C2F;
+  box-sizing: border-box;
+  position: relative;
+  /* display: grid;
+  grid-row-gap: 92px; */
 }
-
+/* 
 @media screen and (max-width: 900px) {
   .content {
     grid-row-gap: 88px;
@@ -13,4 +20,5 @@
   .content {
     grid-row-gap: 64px;
   }
-}
+} */
+

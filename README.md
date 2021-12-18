@@ -10,4 +10,4 @@
 - css
 
 ## Ссылка в интернете:
-https://AlexanderMolokanov.github.io/russian-travel/
+https://AlexanderMolokanov.github.io/russian-travel/index.html

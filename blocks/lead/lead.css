@@ -4,7 +4,7 @@
   flex-direction: column;
   align-items: center;
   padding: 64px 100px 0;
-  max-width: 1280px;
+  /* max-width: 1280px; */
   color: #FFFFFF;
   position: relative;
   box-sizing: border-box;
