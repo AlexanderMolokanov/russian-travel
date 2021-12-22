@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     z-index: 2;
-    max-height: 740px;
+    min-height: 740px;
     height: 100%;
 }
 
@@ -18,7 +18,7 @@
     right: 0;
     bottom: 0;
     z-index: 1;
-    transition: opacity 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out;
 }
 
 .cover__link:hover::before {
