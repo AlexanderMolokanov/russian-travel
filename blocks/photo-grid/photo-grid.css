@@ -18,6 +18,7 @@
     grid-gap: 14px;
     grid-template-columns: repeat(3, 300px);
     padding: 0 48px 92px;
+    justify-content: center;
   }
 }
 
