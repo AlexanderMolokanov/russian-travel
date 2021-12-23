@@ -5,9 +5,7 @@
     align-items: center;
     justify-content: center;
     z-index: 2;
-    min-height: 740px;
-    height: 100%;
-}
+    }
 
 .cover__link::before {
     content: "";
@@ -24,3 +22,4 @@
 .cover__link:hover::before {
     background-color: rgb(16%, 17%, 18%, .8);
 }
+

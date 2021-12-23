@@ -31,12 +31,6 @@
     }
 }
 
-@media screen and (max-width: 550px) {
-    .place {
-            column-gap: 32px;
-    }
-}
-
 @media screen and (max-width: 610px) {
     .place {
         grid-template-columns: fit-content(450px);
@@ -45,5 +39,12 @@
 
     .place:last-child {
         padding-bottom: 66px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .place {
+            column-gap: 32px;
+            row-gap: 32px;
     }
 }
