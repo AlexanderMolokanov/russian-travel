@@ -6,8 +6,8 @@
 ## Используемые технологии:
 - адаптивная верстка 
 - макет из фигмы
-- html
-- css
+- HTML
+- CSS
 
 ## Ссылка в интернете:
 https://AlexanderMolokanov.github.io/russian-travel/index.html
