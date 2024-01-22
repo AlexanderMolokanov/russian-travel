@@ -8,6 +8,7 @@
 - макет из фигмы
 - HTML
 - CSS
+- Flexbox
 
 ## Ссылка в интернете:
 https://AlexanderMolokanov.github.io/russian-travel/index.html
